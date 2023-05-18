@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Niraj Rana</h1>
-<h3 align="center">A passionate web developer from India, trying create some cool stuffs</h3>
+<h1 align="center">Hello, I'm Niraj Rana</h1>
+<h3 align="center">You Know Who I am</h3>
+<h5 align="center">Programmer | Video Editor | Nice Guy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajmohanrana&label=Profile%20views&color=0e75b6&style=flat" alt="nirajmohanrana" /> </p>
-
-<p align="left"> <a href="https://twitter.com/nirajmohanrana" target="blank"><img src="https://img.shields.io/twitter/follow/nirajmohanrana?logo=twitter&style=for-the-badge" alt="nirajmohanrana" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajmohanrana&label=Profile+Vistors&color=0e75b6&style=plastic" alt="nirajmohanrana" /> </p>
 
 - 🔭 I’m currently working on [Aahar](https://github.com/nirajmohanrana/AaharUser)
 
